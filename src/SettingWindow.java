@@ -1,2 +1,4 @@
-public class SettingWindow {
+import javax.swing.*;
+
+public class SettingWindow extends JFrame {
 }
